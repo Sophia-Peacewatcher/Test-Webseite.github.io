@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: homedefault
 ---
 
-[Lüber mich](./another-page.html).
+[über mich](./another-page.html).
