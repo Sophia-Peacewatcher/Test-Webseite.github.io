@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
-[Link to another page](./another-page.html).
+[Lüber mich](./another-page.html).
