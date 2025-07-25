@@ -1,5 +1,5 @@
 title: "Platzhalter für den Titel"
 description: "Platzhalter für die Beschreibung"
-baseurl: "ophia-peacewatcher.github.io/Test-Webseite.github.io/index.html"
+#baseurl: "ophia-peacewatcher.github.io/Test-Webseite.github.io/index.html"
 #show_downloads: false
 theme: jekyll-theme-cayman
